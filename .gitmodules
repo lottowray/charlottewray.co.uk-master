@@ -1,6 +1,6 @@
 [submodule "themes/hugo-creative-theme"]
 	path = themes/hugo-creative-theme
-	url = https://github.com/lottowray/hugo-creative-theme
+	url = https://github.com/lottowray/hugo-creative-theme.git
 [submodule "themes/creative-theme"]
 	path = themes/creative-theme
 	url = https://github.com/lottowray/hugo-creative-theme.git
