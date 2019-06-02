@@ -95,10 +95,10 @@ googleAnalytics = ""
 
 	# Contact section
 	[params.contact]
-		#headline = "Work inquiry, question or something else? <a>Email me<a>"
-		#description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		#phone = "123-456-6789"
-		#email = "me@charlottewray.co.uk"
+		headline = "Work inquiry, question or something else? <a>Email me<a>"
+		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		phone = "123-456-6789"
+		email = "me@charlottewray.co.uk"
 
 	# Google Maps section
 	# [params.location]
