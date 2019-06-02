@@ -59,25 +59,25 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            title = "Studing interaction design – University"
+            description = "Completing an IxD mobile app project focusing on an airport traveller's journey.  "
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			title = "Graphic design – Fujifilm"
+			description = "Refining and learning core principles in visual design for a vareity of materials."
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            title = "Web development and design – Fujifilm"
+            description = "Begin developing web pages for products and campaigns; design and coding."
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            title = "Graphics and UI design – Fujifilm"
+            description = "Lead designer on the visual design of campaigns and the user's digital journey."
 
-
+	
     # Portfolio modals
 	[params.portfolio.modal]
         client = "Client"
