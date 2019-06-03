@@ -60,7 +60,7 @@ googleAnalytics = ""
         [[params.services.list]]
             icon = "fa-diamond"
             title = "Studing interaction design – University"
-            description = "Completing an IxD mobile app project focusing on an airport traveller's journey.  "
+            description = "Completing an IxD mobile app project focusing on an airport traveller's journey."
 
         [[params.services.list]]
 						icon = "fa-paper-plane"
