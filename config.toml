@@ -58,22 +58,26 @@ googleAnalytics = ""
 		headline = "At your service"
 
         [[params.services.list]]
-            icon = "fa-diamond"
+            icon = "/img/timeline_airport-app.jpg"
+						date = "2013"
             title = "Studing interaction design – University"
             description = "Completing an IxD mobile app project focusing on an airport traveller's journey."
 
         [[params.services.list]]
-						icon = "fa-paper-plane"
+						icon = "/img/timeline_packaging.jpg"
+						date = "2014-2017"
 						title = "Graphic design – Fujifilm"
 						description = "Refining and learning core principles in visual design for a vareity of materials."
 
 				[[params.services.list]]
-            icon = "fa-newspaper-o"
+            icon = "/img/timeline_coding.jpg"
+						date = "2017-2018"
             title = "Web development and design – Fujifilm"
             description = "Begin developing web pages for products and campaigns; design and coding."
 
         [[params.services.list]]
-            icon = "fa-heart"
+            icon = "/img/timeline_ui.jpg"
+						date = "2018-"
             title = "Graphics and UI design – Fujifilm"
             description = "Lead designer on the visual design of campaigns and the user's digital journey."
 
